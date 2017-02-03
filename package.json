@@ -76,7 +76,7 @@
     "ssb-ref": "^2.6.1",
     "statistics": "^3.3.0",
     "stream-to-pull-stream": "^1.7.2",
-    "webtorrent": "~0.97.2",
+    "webtorrent": "0.x",
     "xtend": "^4.0.1"
   },
   "devDependencies": {
