@@ -9,11 +9,9 @@
 
 ---
 
-**Ferment Pub offline**
+## :fire: **FERMENT IS DEAD, LONG LIVE FERMENT** :fire:
 
-So this means you can't join right now. I'm in the process of rewriting ferment so that it can work with any standard ssb pub. Once this is done, you'll be able to use the app again, and I won't have to worry about bandwidth issues!
-
-More info: https://github.com/mmckegg/ferment/issues/48
+Maybe it will be back one day. This was a fun experiement, but I'm now too busy working on [Patchwork](http://github.com/ssbc/patchwork) to focus on Ferment. Maybe we'll see some Ferment features in Patchwork one day...
 
 ---
 
