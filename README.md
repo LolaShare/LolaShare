@@ -11,7 +11,7 @@
 
 ## :fire: **FERMENT IS DEAD, LONG LIVE FERMENT** :fire:
 
-Maybe it will be back one day. This was a fun experiement, but I'm now too busy working on [Patchwork](http://github.com/ssbc/patchwork) to focus on Ferment. Maybe we'll see some Ferment features in Patchwork one day...
+Maybe it will be back one day. This was a fun experiment, but I'm now too busy working on [Patchwork](http://github.com/ssbc/patchwork) to focus on Ferment. Maybe we'll see some Ferment features in Patchwork one day...
 
 ---
 
